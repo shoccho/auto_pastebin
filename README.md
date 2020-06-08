@@ -26,7 +26,11 @@ A python script that takes a file and uploads it to ubuntupastebin and returns t
     > https://pastebin.ubuntu.com/XXXX (this will take the username of your pc account)
     
     
-    
+ #Gui is created with pyqt5 
+      
+      you can open files and edit them before pasting it.
+      or you can paste something without even opening the file just by writing in the text field
+      
     
     
     
