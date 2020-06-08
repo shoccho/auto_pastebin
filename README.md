@@ -12,17 +12,17 @@ A python script that takes a file and uploads it to ubuntupastebin and returns t
  
  
  #Usage
-  python3 "path to your file" "an optional username"
+  python3 auto_pastebin.py "path to your file" "an optional username"
   
   
   ex:
   
-    $ python3 do_nothing.sh lazy
+    $ python3 auto_pastebin.py uva900.cpp shakil
     > https://pastebin.ubuntu.com/XXXX
     
     or 
     
-    $ python3 do_nothing.sh
+    $ python3 auto_pastebin.py uva900.cpp 
     > https://pastebin.ubuntu.com/XXXX (this will take the username of your pc account)
     
     
