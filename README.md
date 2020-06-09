@@ -2,7 +2,7 @@
 
 A python script that takes a file and uploads it to ubuntupastebin and returns the url. optionally you can add user name or it will take the uername of the host pc .
 
-#requirements 
+# Requirements 
   
   python 3
   
@@ -11,7 +11,7 @@ A python script that takes a file and uploads it to ubuntupastebin and returns t
  
  
  
- #Usage
+ # Usage
   python3 auto_pastebin.py "path to your file" "an optional username"
   
   
