@@ -30,7 +30,7 @@ A python script that takes a file and uploads it to ubuntupastebin and returns t
       
       you can open files and edit them before pasting it.
       or you can paste something without even opening the file just by writing in the text field
-      
+      The GUI veersion can be found here https://github.com/cpcincubator/auto-pastebin/
     
     
     
